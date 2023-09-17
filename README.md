@@ -1,2 +1,2 @@
-# Procesamiento-Imagenes
-Curso de Procesamiento de imágenes
+# Image Processing
+Image processing course
